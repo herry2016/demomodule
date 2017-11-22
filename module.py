@@ -17,7 +17,7 @@
 """Manage the lifecycle of runtime processes and dispatch requests to them."""
 
 
-
+import os
 import cgi
 import collections
 import cStringIO
